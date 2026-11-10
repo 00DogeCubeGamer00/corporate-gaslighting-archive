@@ -1,5 +1,10 @@
 # Reddit's "Unhelpful Center": An Archive of Automated Gaslighting
 
+## 🛑 The Exit Manifesto
+Before digging into the technical data and image archive below, read the complete philosophy behind this project: 
+👉 **[Read the Exit Manifesto: The Illusion of Authority in Digital Fiefdoms](EXIT_MANIFESTO.md)**
+
+
 This repository serves as a permanent public archive documenting the circular logic, automated containment loops, and systemic failures of modern platform moderation. 
 
 When corporate slogans claim that *"communities are only what we make of them together,"* but build walls of automated scripts to deflect user input, accountability disappears. This project documents what happens when users provide valid critique of a platform's infrastructure, only to be caught in a self-fulfilling enforcement loop.
