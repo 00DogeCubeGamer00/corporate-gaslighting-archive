@@ -91,3 +91,9 @@ We do not own the platforms we build on, but we own our data. This repository en
 
 We do not own the corporate platforms we build on, but we own our data and our evidence. This repository encourages developers and users to take back control, build local tools, 
 and document platform decay outside of corporate walls.
+
+
+⚠️ Final Directive
+
+If you don't like the facts presented here, or if you want to throw a tantrum because you can't process an objective policy check without obsessing over the technology used to type it, stay out of this repository and stay out of my life. There is a massive world outside of these platforms, and I have zero obligation to tolerate the condescending elitism reeking from random, anonymous usernames. This archive is an immutable record, not an open forum. 
+Look at the receipts, read the evidence, or close the page and remove yourself from my space entirely.
