@@ -12,3 +12,6 @@ This directory contains the original prototype assets created during the initial
 Unlike the current production-ready `index.html` which features deep-dive multi-page routing, custom dark theme styles, and advanced script injections, this legacy asset used a light-mode styling profile to display the project's initial core thesis: **the absolute contradiction of an automated verdict posing as an unaided human decision.**
 
 It is preserved here permanently to document the early development workflow and timeline of the repository.
+
+## ⚠️ System Disclosure & Boundaries
+AI infrastructure was actively deployed as a documentation and structural layout assistant during the compilation of this archive. This project stands entirely on immutable contract boundaries, data verification, and empirical timelines. If you possess a selective bias against these computational tools, enforce your own exit: stay out of this repository, stay out of these pages, and do not attempt to tone-police the methods used to log this evidence.
