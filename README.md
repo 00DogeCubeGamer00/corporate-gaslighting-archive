@@ -101,5 +101,6 @@ Look at the receipts, read the evidence, or close the page and remove yourself f
 ---
 
 ## 📡 Active Transmission Node Deployed
-To bypass the platform's broken support forms and force our core defense statement through automated web crawlers and review networks, an active script payload has been compiled. 
-👉 **[Execute the Final System Transmission Node Website]([https://github.com/00DogeCubeGamer00/corporate-gaslighting-archive/blob/main/exploit-payload.html](https://rawcdn.githack.com/00DogeCubeGamer00/corporate-gaslighting-archive/2672a916f0c1e6a2091be4e783bb25d33f381ab0/exploit-payload.html)**
+To bypass the platform's broken support forms and force our core defense statement through automated web crawlers and review networks, an active script payload has been compiled.
+- **[View Raw Code Branch](https://github.com)**
+- **[Execute Live System Transmission Node (GitHack Production CDN)](https://rawcdn.githack.com/00DogeCubeGamer00/corporate-gaslighting-archive/2672a916f0c1e6a2091be4e783bb25d33f381ab0/exploit-payload.html)**
