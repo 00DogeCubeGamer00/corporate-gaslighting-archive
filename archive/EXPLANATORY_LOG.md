@@ -35,6 +35,19 @@ The underlying hypocrisy of this support loop was captured perfectly in a satiri
 > 
 > *By weaponizing these rigid automated templates under the false pretense of 'community safety,' corporate platforms effectively insulate themselves from institutional accountability. It creates a legal and logistical moat: it shifts the burden of a broken system entirely onto the user, structures the interface to force capitulation through sheer exhaustion, and ensures that executive policy decisions remain completely untouchable by the people who populate the network."*
 
+### Asset 05: The Initial Inquiry
+![Initial Appeal Inquiry](05-initial-appeal-inquiry.jpg)
+> *"The simplest question becomes an act of defiance when directed at a system built on silence. This initial inquiry captures the baseline frustration of a user attempting to force human visibility into an opaque communication channel. It serves as the opening documentation of a process that is designed from the outset to ignore individual input."*
+
+### Asset 06: Exposing the Predetermined Loop
+![Exposing the Predetermined Loop](06-exposing-the-predetermined-loop.jpg)
+> *"This detailed response explicitly decodes the core design mechanism of modern platform support: the predetermined outcome. By outlining how the system systematically discards context to maintain its machine-generated decisions, the text exposes a deliberate lack of human oversight. This is not user support; it is an administrative barrier engineered to keep account holders in the dark while shielding the corporate infrastructure from accountability."*
+
+### Asset 07: The Corporate System Verdict
+![Corporate System Verdict](07-corporate-system-verdict.jpg)
+> *"The ultimate culmination of the loop: a sterile, boilerplate template from X Support that completely validates the user's critique. The notification stands as a perfect monument to corporate evasion, claiming that 'additional information was considered' while delivering a completely generic, mass-produced layout that lacks a single specific detail regarding the alleged violation. It proves that the entire appeal mechanism functions as a hollow corporate buffer, designed entirely to exhaust the user until they abandon their digital footprint."*
+
+
 ### The Queue-Clearing Loop
 *"When a platform forces you to appeal an algorithmic error through a specialized ticket system, only to reply with an identical, mass-produced macro script, the entire concept of human arbitration is exposed as an illusion. This screenshot captures the precise point of friction where a user forces the system to reveal its true nature: a hollow customer service buffer engineered strictly to minimize costs and clear administrative queues, rather than engaging in objective community moderation."*
 
