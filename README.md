@@ -1,3 +1,11 @@
+Development disclosure: AI tools were used as coding assistants and for documentation during the development of this archive. If you are not okay with this - simply don't read it. Thank you for your attention.
+
+<p align="center">
+  <img src="audit-ledger/archive-campaign-icon.png" alt="Archive Campaign Icon" width="180" height="180">
+</p>
+
+<h1 align="center">The Unhelpful Centers: An Archive of Cross-Platform Gaslighting</h1>
+
 # Reddit's "Unhelpful Center": An Archive of Automated Gaslighting
 
 ## 🛑 The Exit Manifesto
