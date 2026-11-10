@@ -18,15 +18,15 @@ The underlying hypocrisy of this support loop was captured perfectly in a satiri
 *   ## Evidence Gallery
 
 ### The Warning Paradox
-![Contradictory Warning Notice](01-contradictory-warning.png)
+![Contradictory Warning Notice](01-contradictory-warning.jpg)
 > *"A system that claims an action is triggered 'without automation' while delivering it through a mass-produced, algorithmic workflow is an absolute farce. The method of delivery is itself the proof of automation."*
 
 ### The Queue-Clearing Loop
-![Automated Appeal Rejection](02-automated-appeal-rejection.png)
+![Automated Appeal Rejection](02-automated-appeal-rejection.jpg)
 > *"When an appeal explicitly challenging an automated containment loop is answered by an identical copy-paste macro, the platform stops pretending to have human oversight. You are just screaming into a void designed to clear a ticket queue."*
 
 ### The Satirical Blueprint
-![The Unhelpful Center Parody Mockup](03-reddit-unhelpful-center-satire.png)
+![The Unhelpful Center Parody Mockup](03-reddit-unhelpful-center-satire.jpg)
 > *"When the satire is indistinguishable from the actual customer service experience, the joke isn't a joke anymore, it is the documentation. This mockup predicted the digital trashmail loop with flawless precision."*
 
 
