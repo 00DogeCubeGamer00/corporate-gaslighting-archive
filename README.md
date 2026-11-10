@@ -17,6 +17,23 @@ This repository serves as a permanent public archive documenting the circular lo
 
 When corporate slogans claim that *"communities are only what we make of them together,"* but build walls of automated scripts to deflect user input, accountability disappears. This project documents what happens when users provide valid critique of a platform's infrastructure, only to be caught in a self-fulfilling enforcement loop.
 
+## 🗂️ Repository Architecture & Ecosystem Map
+
+This archive has been modularized into specialized tracking documents, philosophical nodes, and data workarounds designed to bypass corporate customer service shields:
+
+| Component Path | Interface Profile | Tactical Objective |
+| :--- | :--- | :--- |
+| **[`index.html`](index.html)** | Live Web Portal | The central navigation hub connecting all case studies, tracking sheets, and live nodes. |
+| **[`EXIT_MANIFESTO.md`](EXIT_MANIFESTO.md)** | Text Manifesto | Exposes the administrative power-tripping, compliance traps, and ego preservation of digital fiefdoms. |
+| **[`ANTI_AI_PRETEXT.md`](ANTI_AI_PRETEXT.md)** | Text Manifesto | Deconstructs how corporate platforms weaponize "Anti-AI" bias to dismiss highly articulate human self-defense. |
+| **[`suppression-log.html`](suppression-log.html)** | Static Sub-Page | Logs the ingestion black hole where data sent to government and harassment emails is silently discarded. |
+| **[`audit-log.html`](audit-log.html)** | Static Sub-Page | Audits how platforms deploy sterile Code of Conduct macros to acknowledge but systematically ignore proof. |
+| **[`existential-void.html`](existential-void.html)** | Static Sub-Page | Analyzes the profound cognitive friction of trying to apply logic to an indifferent, empty simulation. |
+| **[`baseline-boundary.html`](baseline-boundary.html)** | Static Sub-Page | Sets an immutable personal communication fence against selective technophobia and tool shaming. |
+| **[`exploit-payload.html`](exploit-payload.html)** | Active CDN Node | A script-injected module designed to force-feed your core defense statement into automated terminal caches. |
+| **[`/audit-ledger`](audit-ledger/)** | Evidence Directory | Holds the raw chronological receipts, sidebars, and modmail admissions proving policy manipulation. |
+| **[`/legacy`](legacy/)** | Historical Archive | Contains `oldindex.html`, tracking early structural iterations from the conceptual design phase. |
+
 This repository serves as a permanent, public, open-source archive documenting the circular logic, automated containment loops, and systemic failures of modern platform moderation across major social ecosystems, specifically targeting **Reddit** and **X (formerly Twitter)**.
 
 # The Unhelpful Centers: An Archive of Cross-Platform Gaslighting
