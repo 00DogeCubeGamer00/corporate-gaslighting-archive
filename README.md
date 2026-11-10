@@ -1,4 +1,4 @@
-Development disclosure: AI tools were used as coding assistants and for documentation during the development of this archive. If you are not okay with this - simply don't read it. Thank you for your attention.
+Development Disclosure: AI infrastructure was utilized for code optimization, data structuring, and document formatting throughout this project. If you possess a selective bias against computational tools, remove yourself from this repository instead of policing the methods used to secure this evidence. Your perspective is not requested here.
 
 <p align="center">
   <img src="audit-ledger/archive-campaign-icon.png" alt="Archive Campaign Icon" width="180" height="180">
