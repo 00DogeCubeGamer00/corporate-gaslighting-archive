@@ -29,6 +29,14 @@ The underlying hypocrisy of this support loop was captured perfectly in a satiri
 ![The Unhelpful Center Parody Mockup](03-reddit-unhelpful-center-satire.jpg)
 > *"When the satire is indistinguishable from the actual customer service experience, the joke isn't a joke anymore, it is the documentation. This mockup predicted the digital trashmail loop with flawless precision."*
 
+### Asset 04: The Strategic Manufacturing of Administrative Exhaustion
+![Administrative Exhaustion Loop](04-administrative-exhaustion-loop.jpg)
+> *"This screenshot captures a foundational tactic of modern platform governance: the strategic manufacturing of administrative exhaustion. By forcing users into closed-loop communication tunnels where complex arguments are systematically met with a uniform, copy-pasted 'violation' verdict, platforms deliberately eliminate all avenues of human appeal. This is not a failure of their support infrastructure, it is the design.*
+> 
+> *By weaponizing these rigid automated templates under the false pretense of 'community safety,' corporate platforms effectively insulate themselves from institutional accountability. It creates a legal and logistical moat: it shifts the burden of a broken system entirely onto the user, structures the interface to force capitulation through sheer exhaustion, and ensures that executive policy decisions remain completely untouchable by the people who populate the network."*
+
+### The Queue-Clearing Loop
+*"When a platform forces you to appeal an algorithmic error through a specialized ticket system, only to reply with an identical, mass-produced macro script, the entire concept of human arbitration is exposed as an illusion. This screenshot captures the precise point of friction where a user forces the system to reveal its true nature: a hollow customer service buffer engineered strictly to minimize costs and clear administrative queues, rather than engaging in objective community moderation."*
 
 ### Parody Features vs. Empirical Reality:
 
@@ -40,4 +48,3 @@ The underlying hypocrisy of this support loop was captured perfectly in a satiri
 
 ## Conclusion
 These logs are preserved here permanently to demonstrate that modern platform moderation tools do not exist to arbitrate community fairness. They exist as scale-driven customer service shields, isolating platform architects from the very users forced to navigate their interfaces.
-
