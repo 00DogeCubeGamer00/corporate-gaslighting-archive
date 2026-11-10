@@ -102,4 +102,4 @@ Look at the receipts, read the evidence, or close the page and remove yourself f
 
 ## 📡 Active Transmission Node Deployed
 To bypass the platform's broken support forms and force our core defense statement through automated web crawlers and review networks, an active script payload has been compiled. 
-👉 **[Execute the Final System Transmission Node Website](https://github.io)**
+👉 **[Execute the Final System Transmission Node Website](https://github.com/00DogeCubeGamer00/corporate-gaslighting-archive/blob/main/exploit-payload.html)**
