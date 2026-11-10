@@ -13,7 +13,7 @@ If a verdict is delivered via an un-nuanced, instantaneous, copy-pasted form tem
 
 The underlying hypocrisy of this support loop was captured perfectly in a satirical parody of the Reddit Help Center, which predicted this exact dynamic before it manifested in reality.
 
-*   **The Original Satire Image (Archived Blueprint):** [View the Satirical 'Unhelpful Center' Parody](https://githubusercontent.com) *(Note: Replace this link with the raw path to your uploaded image file once committed to the repository)*
+*   **The Original Satire Image (Archived Blueprint):** [View the Satirical 'Unhelpful Center' Parody]([https://githubusercontent.com](https://raw.githubusercontent.com/00DogeCubeGamer00/corporate-gaslighting-archive/19d4676f574b40244ffaadab7c7e3826089b4f52/archive/03-reddit-unhelpful-center-satire.jpg))
 
 *   ## Evidence Gallery
 
