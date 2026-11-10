@@ -19,5 +19,38 @@ During follow-up appeals, this satire was proven to be a direct blueprint of the
 - No automated transaction receipts or confirmation emails were dispatched to secure email aliases (like Proton).
 - Automated appeal responses completely ignored detailed context, relying strictly on copy-paste verdicts to clear human ticket queues on autopilot.
 
+- ## How to Run the Local Backup Tool
+
+This script utilizes Python and the official PRAW library to extract your personal comment and post histories directly into independent CSV sheets, entirely bypassing the platform's support ticketing queues.
+
+### 1. Prerequisites
+Install the required dependencies via your terminal:
+```bash
+pip install praw
+```
+
+### 2. Generate Your Developer API Keys
+1. Go to the [Reddit App Preferences](https://reddit.com) panel while logged into your account.
+2. Scroll to the bottom and click **"create another app..."**
+3. Fill out the fields:
+   - **Name:** HistoryBackupTool
+   - **App Type:** Select **script**
+   - **Redirect URI:** `http://localhost:8080`
+4. Click **create app**. 
+5. Note the **Client ID** (the random text string underneath the app name) and the **Client Secret** (labeled as "secret").
+
+### 3. Set Variables and Execute
+Set your credentials in your terminal session environment so the script can authenticate, then execute the file:
+
+```bash
+# On Linux/macOS
+export REDDIT_CLIENT_ID="your_client_id"
+export REDDIT_CLIENT_SECRET="your_client_secret"
+export REDDIT_USERNAME="your_username"
+export REDDIT_PASSWORD="your_password"
+
+python backup-script.py
+```
+
 ## Break the Loop
 We do not own the platforms we build on, but we own our data. This repository encourages developers and users to look past restrictive front-facing UIs, deploy local backups, and document structural overreach outside corporate walls.
