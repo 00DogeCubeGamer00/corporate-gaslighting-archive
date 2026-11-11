@@ -36,7 +36,7 @@ The early draft of `oldindex.html` was engineered specifically to freeze the ini
 
 ### 2. Dissecting the Shadow-Filtering Interface
 As documented in the early text notes of this directory, the project spent considerable time analyzing the built-in platform contradictions meant to trap users in loops of passive compliance:
-* **The Illusion of Delivery:** The discovery that the front-end user interface allows a restricted account to type out paragraphs, click "send," and view messages as successfully delivered—even when the profile has been permanently restricted or ghost-muted.
+* **The Illusion of Delivery:** The discovery that the front-end user interface allows a restricted account to type out paragraphs, click "send," and view messages as successfully delivered, even when the profile has been permanently restricted or ghost-muted.
 * **The Ingestion Void:** The backend data structure silently dumps these outgoing packets directly into an unindexed trash pile or a hidden `/dev/null` path. The interface fakes a successful delivery on your end to keep you running in place, treating your data as active while entirely neutralizing it on the receiver's end.
 
 ### 3. Shifting from Compliance to Sovereignty
