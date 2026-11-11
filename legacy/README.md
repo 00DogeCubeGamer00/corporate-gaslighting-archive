@@ -32,7 +32,7 @@ This directory serves as a permanent architectural record tracking the early pha
 The assets preserved within this folder track three distinct phases in the project's strategy, demonstrating how technical and psychological constraints were successfully converted into independent agency:
 
 ### 1. Navigating the False Human Claim
-The early draft of `oldindex.html` was engineered specifically to freeze the initial structural contradiction on display. It documented the exact moment an automated platform warning stated that an enforcement action was triggered by a machine, while the footer claimed: *"Note: This decision was made without the assistance of automation."* This file preserves the baseline proof that platforms use a linguistic sleight of hand—claiming an active human judgment took place while executing the verdict via mass-produced macro scripts.
+The early draft of `oldindex.html` was engineered specifically to freeze the initial structural contradiction on display. It documented the exact moment an automated platform warning stated that an enforcement action was triggered by a machine, while the footer claimed: *"Note: This decision was made without the assistance of automation."* This file preserves the baseline proof that platforms use a linguistic sleight of hand, claiming an active human judgment took place while executing the verdict via mass-produced macro scripts.
 
 ### 2. Dissecting the Shadow-Filtering Interface
 As documented in the early text notes of this directory, the project spent considerable time analyzing the built-in platform contradictions meant to trap users in loops of passive compliance:
